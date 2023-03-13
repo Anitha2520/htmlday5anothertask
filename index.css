@@ -1,0 +1,17 @@
+.border-bottomgrey{
+    border-bottom:1px solid darkgrey;
+
+}
+.progress{
+    height:10px;
+}
+.progress-bar{
+    background-color: orange;
+}
+.spanname{
+    padding-left:310px;
+    position:absolute;
+    text-align: center;
+    display:flex;
+    
+}
